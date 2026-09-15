@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
+import Navbar from '../components/navbar'
 import { useSelector } from 'react-redux'
 import { motion } from 'motion/react';
 import {
