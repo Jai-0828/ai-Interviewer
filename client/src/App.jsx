@@ -1,6 +1,6 @@
 import react from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./pages/home";
 import Auth from "./pages/Auth";
 import { useEffect } from "react";
 import axios from "axios";
