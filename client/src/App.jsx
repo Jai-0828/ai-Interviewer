@@ -11,7 +11,7 @@ import InterviewHistory from "./pages/InterviewHistory.jsx"
 import InterviewReport from "./pages/InterviewReport.jsx"
 import Pricing from "./pages/Pricing.jsx"
 
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://ai-interviewer-1-wk4c.onrender.com"
 
 
 function App() {
