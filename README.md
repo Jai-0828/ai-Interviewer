@@ -17,7 +17,6 @@
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Screenshots](#-screenshots)
 - [Roadmap](#-roadmap)
 - [Author](#-author)
 
